@@ -4336,7 +4336,7 @@ hr {
 .banner-img {
   background-position: center center;
   background-size: 100% auto;
-  background-image: url('../../images/uploads/banner.jpg');
+  background-image: url('/images/uploads/banner.jpg');
 }
 
 .banner-content {
