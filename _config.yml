@@ -1,4 +1,5 @@
 permalinks: pretty
+baseurl: /cottages
 
 collections:
   cottages:
