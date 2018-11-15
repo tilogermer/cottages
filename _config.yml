@@ -1,4 +1,4 @@
-permalinks: pretty
+permalinks: 'pretty'
 baseurl: /cottages
 
 collections:
