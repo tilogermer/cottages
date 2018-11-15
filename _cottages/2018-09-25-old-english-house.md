@@ -12,9 +12,9 @@ built_in: 1839
 beds: 3
 baths: 1.5
 photos:
-  - url: "/images/uploads/old-english-house.jpg"
+  - url: "{{site.baseurl}}/images/uploads/old-english-house.jpg"
     caption: "Beautiful stone work on this classic building"
-  - url: "/images/uploads/log-living-room.jpg"
+  - url: "{{site.baseurl}}/images/uploads/log-living-room.jpg"
     caption: "Beautiful wooden interior living room"
 ---
 

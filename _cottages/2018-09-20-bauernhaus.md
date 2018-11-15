@@ -12,11 +12,11 @@ built_in: 1687
 beds: 5
 baths: 3
 photos:
-  - url: "/images/uploads/bauernhaus.jpg"
+  - url: "{{site.baseurl}}/images/uploads/bauernhaus.jpg"
     caption: "Classic front entrance with ancient writing"
-  - url: "/images/uploads/log-living-room.jpg"
+  - url: "{{site.baseurl}}/images/uploads/log-living-room.jpg"
     caption: "Beautiful wooden interior living room"
-  - url: "/images/uploads/log-fancy-kitchen.jpg"
+  - url: "{{site.baseurl}}/images/uploads/log-fancy-kitchen.jpg"
     caption: "Wooden kitchen with modern outfittings"
 ---
 

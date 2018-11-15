@@ -12,9 +12,9 @@ built_in: 1599
 beds: 2
 baths: 1
 photos:
-  - url: "/images/uploads/old-stone-cottage.jpg"
+  - url: "{{site.baseurl}}/images/uploads/old-stone-cottage.jpg"
     caption: "Wonderful stone exterior with beautiful plants & vines"
-  - url: "/images/uploads/log-kitchen.jpg"
+  - url: "{{site.baseurl}}/images/uploads/log-kitchen.jpg"
     caption: "Wooden kitchen interior with small attic space"
 ---
 
