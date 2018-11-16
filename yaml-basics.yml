@@ -1,0 +1,14 @@
+page: www.yamllint.com
+name: Tyrannosaurus
+period: late Cretaceous
+age: 160
+likes_to_eat:
+  - Other dinosaurs
+  - Meat
+  - More Meat
+  - Not plants
+dimensions:
+  width: 3 metres
+  height: 8 metres
+  length: 12 metres
+  weight: 4 tonnes
